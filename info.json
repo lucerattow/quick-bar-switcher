@@ -1,0 +1,9 @@
+{
+  "name": "quick-bar-switcher",
+  "version": "1.0.0",
+  "title": "Quick Bar Switcher",
+  "author": "Blackklotus",
+  "factorio_version": "2.0",
+  "dependencies": ["base"],
+  "description": "Allows players to quickly switch between quick bar pages 1-4 and 5-8."
+}
