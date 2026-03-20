@@ -1,9 +1,11 @@
 {
   "name": "quick-bar-switcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Quick Bar Switcher",
   "author": "Blackklotus",
   "factorio_version": "2.0",
-  "dependencies": ["base"],
+  "dependencies": [
+    "base"
+  ],
   "description": "Allows each player to switch quick bar pages using either 2-layout or 3-layout mode."
 }
