@@ -5,5 +5,5 @@
   "author": "Blackklotus",
   "factorio_version": "2.0",
   "dependencies": ["base"],
-  "description": "Allows players to quickly switch between quick bar pages 1-4 and 5-8."
+  "description": "Allows each player to switch quick bar pages using either 2-layout or 3-layout mode."
 }
