@@ -3,7 +3,7 @@ data:extend({
     type = "string-setting",
     name = "quick-bar-layout-mode",
     setting_type = "runtime-per-user",
-    default_value = "two",
+    default_value = "three",
     allowed_values = { "two", "three" }
   },
   {
